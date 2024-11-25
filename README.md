@@ -2,6 +2,8 @@
 
 A simple yet elegant clock project built using HTML, CSS, and JavaScript.
 
+## [View Live](https://basharkhan7776.github.io/Clock/)
+
 ## Overview
 
 This project is a digital clock that displays the current time in hours, minutes, and seconds. The clock is designed to be visually appealing, with a clean and modern interface. The project uses HTML for structuring the content, CSS for styling, and JavaScript for dynamic functionality.
@@ -17,10 +19,6 @@ This project is a digital clock that displays the current time in hours, minutes
 
 ![Clock Project Screenshot](assets/screenshot.png)
 
-## Live Preview
-
-You can view the live version of the clock project.
-## [View Live](https://basharkhan7776.github.io/Clock/)
 
 ## Technical Details
 
@@ -39,4 +37,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Acknowledgments
 
 - Font: Poppins, courtesy of Google Fonts
-- Logo: <br><img src="assets/Logo.jpg" alt="Logo" width="100"/>
+- Logo: <br><img src="assets/Logo.jpg" alt="Logo" width="100" style="margin-left:50px"/>
